@@ -1,2 +1,4 @@
 My first linr in project
 Paris is the capital of France
+ch to be com & ch not staged for com
+dddd
